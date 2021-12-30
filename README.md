@@ -1,1 +1,1 @@
-# Basic-Personal-Card-Website
+# Simple Personal Card Template
